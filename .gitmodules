@@ -1,0 +1,4 @@
+[submodule "Fooocus"]
+	path = Fooocus
+	url = https://github.com/eschmitt68-byte/Fooocus_Fork.git
+	branch = feature/body-clothing-adjustments
